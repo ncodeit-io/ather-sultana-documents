@@ -40,7 +40,7 @@
 
 👍 If approved, by 5:30 PM add the template and upload to YouTube by 6 PM.
 
-### Steps for creating animation ppts from existing videos🎞️
+## Steps for creating animation ppts from existing videos🎞️
 
 | Steps | Description |
 | --- | --- |
