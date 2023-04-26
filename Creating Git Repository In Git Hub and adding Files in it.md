@@ -1,4 +1,4 @@
-# Creating Git Repository In Git Hub and adding Files in it:
+# Creating Git Repository In Git Hub and adding Files in it.
 
 Step-by-Step procedure to create a Git repository in GitHub:
 
