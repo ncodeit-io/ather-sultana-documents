@@ -29,7 +29,8 @@
 1.  Open 👉 [![](https://online2pdf.com/favicon.png)Convert PDF to PPTX online & free](https://online2pdf.com/convert-pdf-to-pptx) , Click on **select files,** go to the path where you have downloaded the pdf file, click on it, enter open.
         
 2.  Scroll down the page click on convert Button.
-3. ![](https://i.gyazo.com/a46f75b3693c38470c454201e23390b1.png)
+
+![](https://i.gyazo.com/a46f75b3693c38470c454201e23390b1.png)
         
 4.  Wait until the conversion process completes Then the ppt file will be automatically downloaded in your system.
         
