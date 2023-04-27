@@ -1,48 +1,113 @@
-# PDF to PPT Project Creation Document 📄🔜💻
+# Powerpoint Animation Training
 
-## Stages of Project Creation 📊📈🎬
+Basic video on “What can be done using Animation in Powerpoint”
 
-1.  Source PDF Extraction 📖
-2.  Converting PDF to PPT 🖥️
-3.  Creating Animation PPT with the Converted PPT File 🎨
-
-
-## Source PDF Extraction 📖🔍💻
-
-1.  Open the source URL from column F of the given project from 01-all-projects-master-tracker-v2 in Projects subsheet. 🌐 ([https://docs.google.com/spreadsheets/d/1QwNa6oN7Egu5EjEPcXa3DQ3-ofFvfKCTU5con_6YlgE/edit#gid=1766134960](https://docs.google.com/spreadsheets/d/1QwNa6oN7Egu5EjEPcXa3DQ3-ofFvfKCTU5con_6YlgE/edit#gid=1766134960)) 🔒 (Restricted Content - use the Gmail credentials of [ncodeitalwvqa@gmail.com](mailto:ncodeitalwvqa@gmail.com) to access this tracker, take it from the logins sheet)
+-   [https://youtu.be/kw_udjD2xwo](https://youtu.be/kw_udjD2xwo "https://youtu.be/kw_udjD2xwo")
     
-2.  If you are not already logged in to A Cloud Guru, click on Sign In at the top right corner of the page and enter the necessary login credentials from the logins sheet. 💻🔑
+
+Little advanced effects creation. Watch it to understand what can be done using powerpoint Animation
+
+-   [https://youtu.be/3OOry37K7bk](https://youtu.be/3OOry37K7bk "https://youtu.be/3OOry37K7bk")
     
-3.  Scroll down in the Home page of the course till the COURSE OUTLINE section. 📜 ([https://gyazo.com/ddeb446e9596f326d982ef8f401c043a](https://gyazo.com/ddeb446e9596f326d982ef8f401c043a))
+
+Moving lines in Powerpoint - using animation
+
+-   [https://www.youtube.com/watch?v=Iac98i0Gcpk](https://www.youtube.com/watch?v=Iac98i0Gcpk "https://www.youtube.com/watch?v=Iac98i0Gcpk")
     
-4.  Open Course Introduction lesson which is in CHAPTER 1 (mostly it is the 2nd lesson of 1st chapter). 📚🎓
-    
-5.  At the left side of the video in the Resources section, open the source file link which is below the Download Transcript option. 🔍📂 ([https://gyazo.com/a7df51120c37c63fac8d6dc8850a05fe](https://gyazo.com/a7df51120c37c63fac8d6dc8850a05fe))
-    
-6.  Then, a PDF file will be opened. Save the PDF file by pressing CTRL+S and give it a name as the project name.
-    
-7.  Upload the PDF file to the project folder on OneDrive. 📤💻
-        
-## Converting PDF to PPT 📄➡️🖥️
+-   [https://www.youtube.com/watch?v=8asb2-DbbTs](https://www.youtube.com/watch?v=8asb2-DbbTs "https://www.youtube.com/watch?v=8asb2-DbbTs")
 
-👉 Open -> [Convert PDF to PPTX online & free](https://pdf2pptx.com/) <-, Click on "select files", go to the path where you have downloaded the pdf file, click on it, enter open.
+### Animation Vs Transition
 
-👀 Scroll down the page, click on the "convert" button. ([https://gyazo.com/999d8eb2a09bdc5b6627bf014e6070a5](https://gyazo.com/999d8eb2a09bdc5b6627bf014e6070a5))
+### Animation PPTx creation workflow
 
-⏳ Wait until the conversion process completes. Then the ppt file will be automatically downloaded to your system. 💾
+-   Watch the video: [https://www.youtube.com/watch?v=MlsBLMw7VGE](https://www.youtube.com/watch?v=MlsBLMw7VGE) (excluding @pravalika)
+-   Draw and record the architecture by hand on A4 sheets, each sheet numbered with slide number in left top corner.
+-   Use numbers to represent images and create a corresponding gsheet.
+-   Upload the video to vimeo 01-to-be-processed folder and post the link.
+-   Create two PPTs: vid001-istio-architecture-instructions.pptx and vid001-istio-architecture-animation.pptx and share both.
+-   Write instructions for first two slides and confirm with @pravalika to start.
+-   Finish instructions for the remaining slides and confirm with @pravalika.
+-   @pravalika to finish draft1 of all slides by 2 PM and update for review.
+-   Review and provide feedback while @pravalika continues improvements.
+-   @pravalika to finish animation by 4 PM, asking for clarifications or doubts in comments on instructions pptx and pinging @Sathish.J.
+-   Submit final animation ppt for final review by 4 PM, with modifications or final approval given by 4:30 PM.
+-   Add template and upload to YouTube by 6 PM.
 
-📂 Upload the downloaded PPT file to the project folder in Onedrive.
+### Steps for creating animation ppts from existing videos
+| Step | Task                                   |
+|------|----------------------------------------|
+| 1    | Watch the video                        |
+| 2    | Roughly draft animations for all slides|
+| 3    | Create video for first 50% of slides    |
+| 4    | Create instructions for static slides of first 50% |
+| 5    | Create animation instructions for static slides of first 50% |
+| 6    | Create animation for first 50% of slides |
+| 7    | Create video for last 50% of slides |
+| 8    | Create instructions for static slides of last 50% |
+| 9    | Create animation instructions for static slides of last 50% |
+| 10   | Create animation for last 50% of slides |
+| 11   | Review and finalize |
+| 12   | Apply thumbnail template |
+| 13   | Upload to YouTube |
 
-## Creating Animation PPT with the Converted PPT File 🎬🖥️
+### General Guidelines / Recommendations:
 
-👉 Open the animation PPT URL from the project-tracker and the source PDF and PPT files from OneDrive.
+-   Decide at the beginning whether to use a light or dark background for the animation.
+-   While recording the initial hand-drawn video, draw in landscape mode to match the slides.
+-   After recording, check that the direction of drawing and recording are aligned properly. Use VLC player or other tools to correct the direction before uploading to Vimeo.
+-   Instructions for a slide should not go beyond that slide number to avoid confusing the animation creator.
+-   If there are too many instructions for a single slide, divide it into two slides. Plan this in the video to avoid cramming too much content into one slide.
+-   Redraw part of one slide into the next slide to keep the number of instructions limited.
 
-📖 Check the page number of the particular component in the PDF file, copy all the text from that page, and paste it at the same position in the animation PPT file.
+### Instructions to get the animation from existing images
 
-💻 Change the font size, style, and color to the approved template format.
+| Stage | Task                                                                                         |
+|-------|----------------------------------------------------------------------------------------------|
+| 1     | Give a cut wise numbers to static image send to trainer for review and recommendations      |
+| 2     | Cut the images into different parts as per trainer recommendations and convert to vector    |
+|       | image format, upload the images to any drive and create gsheet and put the details of images |
+|       | code wise                                                                                     |
+| 3     | Get instruction from trainer to re-arrange the image, use the ppt and rearrange image based   |
+|       | on trainer instructions, send to trainer for review.                                          |
+| 4     | Get the audio record and animation instruction from trainer and apply animation to re-      |
+|       | arranged image and send for review to trainer.                                                |
+| 5     | Do the pre and post production works and upload to YouTube.                                   |
 
-🎨 Next, go to the source PPT file and check the slide number of the component. Copy all the images from that slide and paste them into the animation PPT file at the same position.
 
-✂️ Remove any extra spaces that may have come in between the words.
+### Marking of Images - General Guidelines 
 
-👍 Repeat this process for all the components.
+There are 4 different categories of marking.
+- **1txt** - Marking of text - in RED color boxes . With 1A,1B, 1C, 1D . …. all starting with 1  
+- **2img** - Marking of images - in GREEN color boxes . With 2A,2B,2C,2D …. all starting with 2  
+- **3tximg** - Marking of text + images - in BLUE color boxes - with 3A,3B,3C,3D … all starting with 3  
+- **4logi** - Marking of Logical Blocks - in YELLOW color boxes - with 4A,4B,4C,4D … all starting with 4
+
+Apart from this each slide will have the category of marking at the top right corner of that slide.
+
+When marking a new image, we have to copy the correct slide and then insert the image into the slide , then start the marking .
+
+> A video of how to do these markings is available at -
+> [https://youtu.be/Z_ffUmq5UvA](https://youtu.be/Z_ffUmq5UvA
+> "https://youtu.be/Z_ffUmq5UvA")
+
+Current template file is **rvid001-generic-template-for-marking-images-v1.pptx** in OneDrive
+
+### Using Professional Powerpoint templates and InfoGraphics
+
+Professional Powerpoint templates pre-created templates by good designers that we can use to enhance the look and feel of our ppt.
+
+Check out [https://graphicriver.net/popular_item/by_category?category=presentation-templates%2Fpowerpoint-templates&gclid=Cj0KCQiA_qD_BRDiARIsANjZ2LDqrlBXPiREMU1vqQDxkLj0xUK6O0IJSRYwcBqDcuak-CMFg8Ns0dEaAlMbEALw_wcB](https://graphicriver.net/popular_item/by_category?category=presentation-templates%2Fpowerpoint-templates&gclid=Cj0KCQiA_qD_BRDiARIsANjZ2LDqrlBXPiREMU1vqQDxkLj0xUK6O0IJSRYwcBqDcuak-CMFg8Ns0dEaAlMbEALw_wcB "https://graphicriver.net/popular_item/by_category?category=presentation-templates%2Fpowerpoint-templates&gclid=Cj0KCQiA_qD_BRDiARIsANjZ2LDqrlBXPiREMU1vqQDxkLj0xUK6O0IJSRYwcBqDcuak-CMFg8Ns0dEaAlMbEALw_wcB")
+
+They are basically slides that we can
+
+> -   copy the slides from template to our own PPT file
+>     
+> -   modify the pre-created slides slightly to convert into what we need for our own PPT
+>     
+> -   infographics (arrows,boxes,banners etc ) that we can copy/paste into our own PPT
+
+- We have already purchased the following 2 bundles for our internal use. Check the the project manager for to copy this into your own laptop
+
+[https://graphicriver.net/item/motagua-multipurpose-powerpoint-template/10348960](https://graphicriver.net/item/motagua-multipurpose-powerpoint-template/10348960 "https://graphicriver.net/item/motagua-multipurpose-powerpoint-template/10348960")
+
+[https://graphicriver.net/item/infographics-multipurpose-powerpoint-template-updatable/22995176](https://graphicriver.net/item/infographics-multipurpose-powerpoint-template-updatable/22995176 "https://graphicriver.net/item/infographics-multipurpose-powerpoint-template-updatable/22995176")
