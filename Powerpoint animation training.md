@@ -1,4 +1,4 @@
-# 🎓 PowerPoint Animation Training:
+# 🎓 PowerPoint Animation Training
 
 - Basic video on “What can be done using Animation in PowerPoint”: 
   - 🎥 [https://youtu.be/kw_udjD2xwo](https://youtu.be/kw_udjD2xwo)
