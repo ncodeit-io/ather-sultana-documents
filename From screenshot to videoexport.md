@@ -1,6 +1,6 @@
 # From screenshot to video export
 
-## 1) **Standardize the template**  
+## 1) **Standardize the template**
 - Ppt size 16:9  
 - Color of background  
 - Cont  
