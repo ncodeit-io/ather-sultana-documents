@@ -15,17 +15,17 @@
 
 **Steps:**
 
-1.  Take screenshots using (Windows + PrtSc) on the keyboard
-2.  Repeat the process until the video is finished
+1.  Take screenshots using (Windows + PrtSc) on the keyboard.
+2.  Repeat the process until the video is finished.
 3.  Upload the screenshots to Google Photos ([ncdjspics@gmail.com](mailto:ncdjspics@gmail.com))
-4.  Organize screenshots according to component ID ending with a serial number
-5.  Insert screenshots in a PowerPoint presentation (SC ppt)
+4.  Organize screenshots according to component ID ending with a serial number.
+5.  Insert screenshots in a PowerPoint presentation (SC ppt).
 6.  Make necessary corrections without changing the meaning of the content.
 
 ### **Marking**
 
 1.  Task: Filter out only the necessary screenshots for marking.
-2.  Mark 4 categories of objects in the screenshots: a. Text (1txt) b. Images (2img) c. Text + Images (3txtimg) d. Logical Images (4log)
+2.  Mark 4 categories of objects in the screenshots: a. Text (1txt) b. Images (2img) c. Text + Images (3txtimg) d. Logical Images (4log).
 3.  Use the generic template for marking. Here is the link: [https://onedrive.live.com/edit.aspx?cid=1d5fee4885b5afbd&page=view&resid=1D5FEE4885B5AFBD!758&parId=1D5FEE4885B5AFBD!756&app=PowerPoint](https://onedrive.live.com/edit.aspx?cid=1d5fee4885b5afbd&page=view&resid=1D5FEE4885B5AFBD!758&parId=1D5FEE4885B5AFBD!756&app=PowerPoint) - Connect your OneDrive account.
 4.  Each screenshot should be inserted into one of the four templates. a. Text Template (1txt) - Mark only text. b. Image Template (2img) - Mark only images. c. Text + Image Template (3txtimg) - Mark only text + images. d. Logical Template (4log) - Mark only logical images.
 5.  Follow the same process for all screenshots.
@@ -73,16 +73,16 @@
 [https://onedrive.live.com/edit.aspx?cid=1d5fee4885b5afbd&page=view&resid=1D5FEE4885B5AFBD!989&parId=1D5FEE4885B5AFBD!756&app=PowerPoint](https://onedrive.live.com/edit.aspx?cid=1d5fee4885b5afbd&page=view&resid=1D5FEE4885B5AFBD!989&parId=1D5FEE4885B5AFBD!756&app=PowerPoint)
 - Connect your OneDrive account
     
--  Create image-insertion instructions in the g sheet  
+-  Create image-insertion instructions in the g sheet.  
     [![](https://developers.google.com/drive/images/drive_icon.png)https://docs.google.com/spreadsheets/d/1nfPKgJFbR31RLrVjoaoVGNQ8i7mRgN8lc-srCtVr7hQ/edit#gid=1613043066](https://docs.google.com/spreadsheets/d/1nfPKgJFbR31RLrVjoaoVGNQ8i7mRgN8lc-srCtVr7hQ/edit#gid=1613043066)RESTRICTED CONTENT  
       
-- Insert images into the g-blocks as per the image-insertion instructions in Animation ppt  
+- Insert images into the g-blocks as per the image-insertion instructions in Animation ppt.  
 - For insert images use the image insert instructions gsheet we have to use the generic template for image insert instructions.
 -  Here is the genetic template  
     [https://onedrive.live.com/edit.aspx?cid=1d5fee4885b5afbd&page=view&resid=1D5FEE4885B5AFBD!989&parId=1D5FEE4885B5AFBD!756&app=PowerPoint](https://onedrive.live.com/edit.aspx?cid=1d5fee4885b5afbd&page=view&resid=1D5FEE4885B5AFBD!989&parId=1D5FEE4885B5AFBD!756&app=PowerPoint "https://onedrive.live.com/edit.aspx?cid=1d5fee4885b5afbd&page=view&resid=1D5FEE4885B5AFBD!989&parId=1D5FEE4885B5AFBD!756&app=PowerPoint")  
     
 
->  **Note**: do not edit the generic template
+>  **Note**: do not edit the generic template.
 
 - In screenshots section we have created screenshots ppt and in marking we have created marking ppt and now we have to create the animation ppt for image insert instructions.
     
