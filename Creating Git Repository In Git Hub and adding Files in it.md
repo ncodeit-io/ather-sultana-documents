@@ -48,4 +48,6 @@ Step-by-Step procedure to create a Git repository in GitHub:
 - The commit message should be a brief description of the changes you've made.
 - Click on the "Commit changes" button to commit the changes to your Git repository on GitHub.
     
-**10.**  **Invite collaborators:** If you want to collaborate with others on your project, you can invite them to your repository. You can do this by going to the "Settings" tab of your repository and clicking on the "Collaborators" option. From there, you can add collaborators by entering their GitHub usernames or email addresses.
+**10.**  **Invite collaborators:** 
+- If you want to collaborate with others on your project, you can invite them to your repository. You can do this by going to the "Settings" tab of your repository and clicking on the "Collaborators" option. 
+- From there, you can add collaborators by entering their GitHub usernames or email addresses.
